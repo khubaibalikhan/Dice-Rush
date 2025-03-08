@@ -1,1 +1,3 @@
- Dice-Rush
+# Dice-Rush
+<br>
+Author - Khubaib Ali Khan
